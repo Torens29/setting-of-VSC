@@ -1,0 +1,13 @@
+{
+    "window.zoomLevel": 3,
+    "workbench.iconTheme": "vscode-icons",
+    "files.autoSave": "afterDelay",
+    "prettier.printWidth": 120,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "files.eol": "\n",
+    "security.workspace.trust.untrustedFiles": "open"
+}
